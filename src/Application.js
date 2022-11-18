@@ -11,7 +11,7 @@ function Application() {
       </h1>
       <div className="grid grid-cols-12 grid-rows-1 gap-4 h-full">
         <Navigation>
-          <NavigationLink to="/">Test not Home</NavigationLink>
+          <NavigationLink to="/">Home sweet home</NavigationLink>
           <NavigationLink to="/notes/hipster">Hipster Ipsum</NavigationLink>
           <NavigationLink to="/notes/zombie">Zombie Ipsum</NavigationLink>
           <NavigationLink to="/notes/cupcake">Cupcake Ipsum</NavigationLink>
